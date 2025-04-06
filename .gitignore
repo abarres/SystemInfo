@@ -1,0 +1,12 @@
+# Generated reports
+System-Report-*.html
+
+# Windows
+Thumbs.db
+desktop.ini
+
+# VS Code
+.vscode/
+
+# PowerShell
+*.ps1xml
